@@ -1,0 +1,143 @@
+﻿1
+00:00:02,000 --> 00:00:04,500
+Nos hemos habituado mucho a Internet.
+
+2
+00:00:04,700 --> 00:00:07,700
+y constantemente compartimos información sobre nosotros y nuestra vida privada:
+
+3
+00:00:08,000 --> 00:00:11,000
+qué comemos,
+con quién nos encontramos,
+
+4
+00:00:11,200 --> 00:00:14,200
+a dónde vamos,
+y qué leemos.
+
+5
+00:00:14,500 --> 00:00:16,400
+Dejáme explicarlo mejor.
+
+6
+00:00:16,600 --> 00:00:19,600
+Ahora mismo, si alguien intentara averiguar cosas acerca de vos,
+
+7
+00:00:19,800 --> 00:00:23,200
+vería tu identidad real, tu localización exacta, tu Sistema Operativo,
+
+8
+00:00:23,400 --> 00:00:26,500
+todas las páginas que habés visitado, y el navegador que utilizás para navegar por la web,
+
+9
+00:00:26,700 --> 00:00:29,000
+y de la misma manera mucha más información acerca de vos y vuestra vida
+
+10
+00:00:29,200 --> 00:00:31,500
+que vos probablemente no pretendías
+
+11
+00:00:31,700 --> 00:00:34,000
+compartir con extraños desconocidos, que fácilmente pueden utilizar esta información para perjudicarte.
+
+12
+00:00:34,500 --> 00:00:37,000
+¡Pero no si utilizás Tor!
+
+13
+00:00:37,200 --> 00:00:40,800
+Tor Browser proteje tu privacidad e identidad en Internet.
+
+14
+00:00:41,000 --> 00:00:44,800
+Tor asegura tu conexión con tres capas de cifrado,
+
+15
+00:00:45,000 --> 00:00:49,300
+y la dirige a través de tres servidores administrados por voluntarios alrededor del planeta,
+
+16
+00:00:49,500 --> 00:00:54,500
+lo que nos permite comunicarnos anónimamente a través de Internet.
+
+17
+00:00:55,000 --> 00:00:57,400
+Tor además protege nuestros datos
+
+18
+00:00:57,600 --> 00:01:02,600
+contra la vigilancia masiva de gobiernos o empresas.
+
+19
+00:01:02,800 --> 00:01:07,800
+Quizás vivés en un país represivo que intenta controlar y vigilar Internet.
+
+20
+00:01:08,000 --> 00:01:13,000
+O quizás simplemente no querés que las grandes compañías se aprovechen de tu información personal.
+
+21
+00:01:13,800 --> 00:01:16,500
+Tor hace que todos sus usuarios parezcan iguales,
+
+22
+00:01:16,700 --> 00:01:20,800
+lo que confunde al observador y a vos te hace anónimo.
+
+23
+00:01:21,900 --> 00:01:25,700
+Así, cuanta más gente utilice la red Tor,
+ésta se hace más fuerte,
+
+24
+00:01:25,800 --> 00:01:29,800
+ya que es más sencillo ocultarse en una multitud de personas que parecen exactamente iguales.
+
+25
+00:01:30,000 --> 00:01:32,500
+Así podés evitar la censura
+
+26
+00:01:32,700 --> 00:01:36,100
+sin preocuparte de que el censor sepa qué hacés en Internet.
+
+27
+00:01:36,300 --> 00:01:39,200
+Los anuncios no te perseguirán
+
+28
+00:01:39,400 --> 00:01:43,300
+durante meses a partir de la primera vez que hiciste click en un producto.
+
+29
+00:01:43,800 --> 00:01:46,300
+Al utilizar Tor, los sitios que visites ni siquiera sabrán quién sos
+
+30
+00:01:46,500 --> 00:01:48,500
+ni desde qué parte del mundo los visitás
+
+31
+00:01:48,700 --> 00:01:50,700
+a menos que te identifiques y se lo digas.
+
+32
+00:01:53,200 --> 00:01:55,500
+Descargando y utilizando Tor,
+
+33
+00:01:55,700 --> 00:01:58,000
+ayudás a proteger a las personas que necesitan anonimato,
+
+34
+00:01:58,200 --> 00:02:03,500
+por ejemplo, activistas, periodistas y bloqueros.
+
+35
+00:02:04,000 --> 00:02:09,000
+¡Descargá y usá Tor! ¡O proporcioná un servidor!
+
