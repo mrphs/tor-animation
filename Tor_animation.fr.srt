@@ -9,48 +9,43 @@ des informations sur nous et notre vie privée:
 
 3
 00:00:08,000 --> 00:00:11,000
-la nourriture que nous mangeons,
-les gens que nous rencontrons,
+notre alimentation, nos rencontres,
 
 4
 00:00:11,200 --> 00:00:14,200
-les lieux où nous nous rendons
-et les choses que nous lisons.
+nos déplacements et nos lectures
 
 5
 00:00:14,500 --> 00:00:16,400
-Laissez moi vous l'expliquer mieux.
+Je vous explique
 
 6
 00:00:16,600 --> 00:00:19,600
-En ce moment même, si quelqu'un tente
-de s'informer sur vous,
+si quelqu'un tente de s'informer sur vous,
 
 7
 00:00:19,800 --> 00:00:23,200
-ils pourront voir votre vraie identitée, votre localisation précise, le système d'exploitation de votre ordinateur,
+il pourrait connaitre votre identité, votre localisation, votre navigateur,
 
 8
 00:00:23,400 --> 00:00:26,500
-tous les sites que vous avez consulté,
-le navigateur web que vous utilisez,
+tous les sites que vous consultez,
 
 9
 00:00:26,700 --> 00:00:29,000
-et tant d'autres informations sur vous et votre vie
+et tant d'autres informations personelles que vous ne souhaitez
 
 10
 00:00:29,200 --> 00:00:31,500
-que vous n'aviez probablement pas prévu
+partager avec des inconnus
 
 11
 00:00:31,700 --> 00:00:34,000
-de partager avec des inconnus, qui pourraient facilement utiliser
-ces informations à votre désavantage.
+qui pourraient les utiliser à votre insu.
 
 12
 00:00:34,500 --> 00:00:37,000
-Mais pas si vous utilisez Tor !
+à moins que vous n'utilisiez Tor !
 
 13
 00:00:37,200 --> 00:00:40,800
@@ -62,27 +57,27 @@ Tor sécurise votre connexion avec trois couches de chiffrement
 
 15
 00:00:45,000 --> 00:00:49,300
-et les fait passer au travers de trois serveurs gérés par des bénévoles autour du monde
+et les fait passer au travers de trois serveurs gérés par une communauté de bénévoles
 
 16
 00:00:49,500 --> 00:00:54,500
-ce qui nous permet de communiquer anonymement sur l'internet.
+ce qui permet de communiquer anonymement sur l'internet.
 
 17
 00:00:55,000 --> 00:00:57,400
-Tor protège également nos données
+Tor protège aussi contre la surveillance de masse
 
 18
 00:00:57,600 --> 00:01:02,600
-contre la surveillance de masse d'entreprises ou de gouvernements.
+de la part d'entreprises ou de gouvernements.
 
 19
 00:01:02,800 --> 00:01:07,800
-Peut-être vivez vous dans un pays répressif qui tente de contrôler et surveiller l'internet.
+Peut-être vivez vous dans un pays répressif qui tente de contrôler et de surveiller l'internet.
 
 20
 00:01:08,000 --> 00:01:13,000
-Ou peut-être ne voulez vous pas que de grosses entreprises profitent de vos informations personelles.
+Peut-être ne voulez vous pas que des entreprises profitent de vos informations personelles.
 
 21
 00:01:13,800 --> 00:01:16,500
@@ -95,15 +90,15 @@ ce qui embrouille l'observateur et vous rend anonyme.
 23
 00:01:21,900 --> 00:01:25,700
 Plus le nombre d'utilisateurs du réseau Tor est important,
-et plus il est éfficace
+plus il est éfficace
 
 24
 00:01:25,800 --> 00:01:29,800
-car il est plus facile de se cacher dans une foule de gens qui ont tous la même apparence.
+il est plus facile de se cacher dans une foule de gens qui ont tous la même apparence.
 
 25
 00:01:30,000 --> 00:01:32,500
-Vous pouvez contourner la censure
+Ainsi vous pouvez contourner la censure
 
 26
 00:01:32,700 --> 00:01:36,100
@@ -120,15 +115,15 @@ pendant des mois après avoir cliqué sur un produit.
 29
 00:01:43,800 --> 00:01:46,300
 En utilisant Tor...
-les sites que vous consultez
+les sites que vous consulterez
 
 30
 00:01:46,500 --> 00:01:48,500
-ne sauront même pas qui vous êtes et de quelle région du monde vous venez
+ne sauront plus qui vous êtes
 
 31
 00:01:48,700 --> 00:01:50,700
-sauf si vous vous identifiez et leur dites.
+ni de quelle région du monde vous venez
 
 32
 00:01:53,200 --> 00:01:55,500
@@ -136,11 +131,11 @@ En téléchargeant et utilisant Tor
 
 33
 00:01:55,700 --> 00:01:58,000
-vous pouvez protéger les gens qui ont besoin d'être anonymes,
+vous protégerez les gens qui ont besoin d'être anonymes,
 
 34
 00:01:58,200 --> 00:02:03,500
-par exemple les activistes, journalistes et blogeurs.
+tel que les activistes, journalistes et blogueurs.
 
 35
 00:02:04,000 --> 00:02:07,000
