@@ -5,7 +5,7 @@ Nous nous sommes habitués à l'internet
 2
 00:00:04,700 --> 00:00:07,700
 et sommes en permanence en train de partager
-des informations sur nous et notre vie privée:
+des informations personelles:
 
 3
 00:00:08,000 --> 00:00:11,000
@@ -13,11 +13,11 @@ notre alimentation, nos rencontres,
 
 4
 00:00:11,200 --> 00:00:14,200
-nos déplacements et nos lectures
+nos déplacements et nos lectures.
 
 5
 00:00:14,500 --> 00:00:16,400
-Je vous explique
+Je vous explique:
 
 6
 00:00:16,600 --> 00:00:19,600
@@ -45,7 +45,7 @@ qui pourraient les utiliser à votre insu.
 
 12
 00:00:34,500 --> 00:00:37,000
-à moins que vous n'utilisiez Tor !
+À moins que vous n'utilisiez Tor !
 
 13
 00:00:37,200 --> 00:00:40,800
@@ -144,4 +144,8 @@ Téléchargez et utilisez Tor !
 36
 00:02:07,200 --> 00:02:10,000
 Ou bien faites fonctionner un relais !
+
+37
+00:02:12,400 --> 00:02:15,200
+Traduction de Nicolas Vigier
 
