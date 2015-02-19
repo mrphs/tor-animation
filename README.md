@@ -64,8 +64,10 @@ Please following these instructions for recording a voice-over:
     you.
 
  3. Find a microphone and an audio-recording software.  Most laptops and
-    some headphones have reasonable microphones built in, and most
-    operating systems come with their own audio-recording software.
+    some headphones or even smartphones have reasonable microphones built
+    in, and most operating systems come with their own audio-recording
+    software.  When recording, make sure to keep a distance of 10 to 15 cm
+    to the microphone.
 
  4. Consider printing out the translated subtitles, or make sure you can
     read them without using your keyboard or mouse, either of which would
