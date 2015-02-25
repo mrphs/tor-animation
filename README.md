@@ -74,7 +74,10 @@ Please following these instructions for recording a voice-over:
     produce noise that could make the resulting audio file unusable.
 
  5. Hit record on the audio recorder.  A few seconds of silence at the
-    beginning don't matter.
+    beginning don't matter.  In fact, please record 20 to 30 seconds of
+    the room sound, either at the beginning or at the end of the
+    recording, so that the sound studio can better remove background
+    noise.
 
  6. Start the animation.  Read the translated text whenever you see
     corresponding subtitles, or whenever you think the text matches the
