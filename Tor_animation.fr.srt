@@ -1,9 +1,9 @@
-﻿1
-00:00:02,000 --> 00:00:04,500
+1
+00:00:01,520 --> 00:00:03,620
 Nous nous sommes habitués à l'internet
 
 2
-00:00:04,700 --> 00:00:07,700
+00:00:03,900 --> 00:00:07,700
 et sommes en permanence en train de partager
 des informations personelles:
 
@@ -12,43 +12,43 @@ des informations personelles:
 notre alimentation, nos rencontres,
 
 4
-00:00:11,200 --> 00:00:14,200
+00:00:11,200 --> 00:00:12,740
 nos déplacements et nos lectures.
 
 5
-00:00:14,500 --> 00:00:16,400
+00:00:13,060 --> 00:00:14,400
 Je vous explique:
 
 6
-00:00:16,600 --> 00:00:19,600
+00:00:14,960 --> 00:00:17,660
 si quelqu'un tente de s'informer sur vous,
 
 7
-00:00:19,800 --> 00:00:23,200
+00:00:18,180 --> 00:00:22,660
 il pourrait connaitre votre identité, votre localisation, votre navigateur,
 
 8
-00:00:23,400 --> 00:00:26,500
+00:00:23,260 --> 00:00:25,120
 tous les sites que vous consultez,
 
 9
-00:00:26,700 --> 00:00:29,000
+00:00:25,380 --> 00:00:28,600
 et tant d'autres informations personelles que vous ne souhaitez
 
 10
-00:00:29,200 --> 00:00:31,500
+00:00:28,920 --> 00:00:30,500
 partager avec des inconnus
 
 11
-00:00:31,700 --> 00:00:34,000
+00:00:30,620 --> 00:00:32,920
 qui pourraient les utiliser à votre insu.
 
 12
-00:00:34,500 --> 00:00:37,000
+00:00:33,340 --> 00:00:35,840
 À moins que vous n'utilisiez Tor !
 
 13
-00:00:37,200 --> 00:00:40,800
+00:00:37,000 --> 00:00:40,780
 Tor Browser protège votre vie privée et votre identitée sur internet.
 
 14
@@ -56,19 +56,19 @@ Tor Browser protège votre vie privée et votre identitée sur internet.
 Tor sécurise votre connexion avec trois couches de chiffrement
 
 15
-00:00:45,000 --> 00:00:49,300
+00:00:45,000 --> 00:00:50,280
 et les fait passer au travers de trois serveurs gérés par une communauté de bénévoles
 
 16
-00:00:49,500 --> 00:00:54,500
+00:00:50,740 --> 00:00:54,500
 ce qui permet de communiquer anonymement sur l'internet.
 
 17
-00:00:55,000 --> 00:00:57,400
+00:00:55,000 --> 00:00:58,720
 Tor protège aussi contre la surveillance de masse
 
 18
-00:00:57,600 --> 00:01:02,600
+00:00:59,040 --> 00:01:02,600
 de la part d'entreprises ou de gouvernements.
 
 19
@@ -76,24 +76,24 @@ de la part d'entreprises ou de gouvernements.
 Peut-être vivez vous dans un pays répressif qui tente de contrôler et de surveiller l'internet.
 
 20
-00:01:08,000 --> 00:01:13,000
+00:01:08,380 --> 00:01:13,300
 Peut-être ne voulez vous pas que des entreprises profitent de vos informations personelles.
 
 21
-00:01:13,800 --> 00:01:16,500
+00:01:14,180 --> 00:01:18,080
 Tor rend tous ses utilisateurs en apparence identiques,
 
 22
-00:01:16,700 --> 00:01:20,800
+00:01:18,460 --> 00:01:22,220
 ce qui embrouille l'observateur et vous rend anonyme.
 
 23
-00:01:21,900 --> 00:01:25,700
+00:01:22,640 --> 00:01:26,440
 Plus le nombre d'utilisateurs du réseau Tor est important,
 plus il est éfficace
 
 24
-00:01:25,800 --> 00:01:29,800
+00:01:26,700 --> 00:01:29,800
 il est plus facile de se cacher dans une foule de gens qui ont tous la même apparence.
 
 25
@@ -105,15 +105,15 @@ Ainsi vous pouvez contourner la censure
 sans craindre que le censeur ne sache ce que vous faites sur l'internet.
 
 27
-00:01:36,300 --> 00:01:39,200
+00:01:37,180 --> 00:01:39,760
 Les publicités ne vous suiveront plus
 
 28
-00:01:39,400 --> 00:01:43,300
+00:01:40,080 --> 00:01:42,680
 pendant des mois après avoir cliqué sur un produit.
 
 29
-00:01:43,800 --> 00:01:46,300
+00:01:43,460 --> 00:01:46,300
 En utilisant Tor...
 les sites que vous consulterez
 
@@ -126,23 +126,23 @@ ne sauront plus qui vous êtes
 ni de quelle région du monde vous venez
 
 32
-00:01:53,200 --> 00:01:55,500
+00:01:52,140 --> 00:01:54,760
 En téléchargeant et utilisant Tor
 
 33
-00:01:55,700 --> 00:01:58,000
+00:01:55,040 --> 00:01:57,840
 vous protégerez les gens qui ont besoin d'être anonymes,
 
 34
-00:01:58,200 --> 00:02:03,500
+00:01:58,200 --> 00:02:02,320
 tel que les activistes, journalistes et blogueurs.
 
 35
-00:02:04,000 --> 00:02:07,000
+00:02:02,500 --> 00:02:04,680
 Téléchargez et utilisez Tor !
 
 36
-00:02:07,200 --> 00:02:10,000
+00:02:05,520 --> 00:02:08,320
 Ou bien faites fonctionner un relais !
 
 37
